@@ -1,0 +1,9 @@
+0 SUV
+1 Hatchback
+2 Sedan
+3 PickUp Truck
+4 Convertible
+5 Coupe
+6 Minivan
+7 Crossover
+8 Sports Car
